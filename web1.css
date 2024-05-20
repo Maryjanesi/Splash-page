@@ -1,0 +1,39 @@
+.bio{
+    font-size: 2rem;
+    margin-top: 1rem; 
+}
+.img {
+    width:500px;
+    margin-top: 6rem;
+}
+
+.bio-img {
+    margin-inline-start: 5rem; 
+    margin-top: 6rem;
+}
+
+.text-design {
+    /* text-align: right; */
+    margin-inline-start: 5rem;
+    margin-right: 5rem;
+    margin-bottom: 5rem;
+    margin-top: 2rem;
+}
+.column {
+    flex-direction: column;
+}
+.container {
+    display: flex;
+    gap: 2rem;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 4rem;
+}
+.freelancer {
+    font-weight: bold;
+    font-size: 3rem;
+}
+
+.font-size{
+    font-size: 25px;
+}
